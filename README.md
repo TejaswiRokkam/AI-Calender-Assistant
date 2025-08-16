@@ -18,7 +18,7 @@ It allows users to **automatically schedule events** through chat commands, dyna
 
 ## Files
 - `My workflow.json` – Exported n8n workflow file.  
-- `Screenshot 2025-08-16 161803.png & Screenshot 2025-08-16 162234.png` – Screenshots of the workflow nodes in n8n for reference.  
+- `Screenshot 2025-08-16 161803.png` – Screenshots of the workflow nodes in n8n for reference.  
 
 ## How to Use
 1. Import the `My workflow.json` file into your **n8n instance**.
